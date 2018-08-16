@@ -12,3 +12,7 @@
     * [类型](you-dont-know-js/type/README.md)
     * [强制类型转换](you-dont-know-js/coersion/README.md)
 
+# Deep Javascript Foundations -- Frontend Master
+
+* [Deep Javascript Foundations](deep-js-foundations/README.md)
+    * [作用域](deep-js-foundations/scoping/README.md)
