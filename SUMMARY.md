@@ -11,6 +11,8 @@
         * [关于this](you-dont-know-js/this/abount-this.md)
         * [this的全面解析](you-dont-know-js/this/rounded-analysis.md)
     * [OO](you-dont-know-js/oo/README.md)
+        * [对象](you-dont-know-js/oo/object.md)
+        * [混合对象“类”](you-dont-know-js/oo/class-object.md)
     * [原型链](you-dont-know-js/prototype/README.md)
     * [类型](you-dont-know-js/type/README.md)
     * [强制类型转换](you-dont-know-js/coersion/README.md)
