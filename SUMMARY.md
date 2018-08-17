@@ -16,6 +16,7 @@
     * [原型链](you-dont-know-js/prototype/README.md)
     * [行为委托](you-dont-know-js/delegation/README.md)
         * [例子](you-dont-know-js/delegation/example.md)
+    * [ES6 Class](you-dont-know-js/class/README.md)
 
 # Deep Javascript Foundations -- Frontend Master
 
