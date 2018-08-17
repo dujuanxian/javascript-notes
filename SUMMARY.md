@@ -14,8 +14,8 @@
         * [对象](you-dont-know-js/oo/object.md)
         * [混合对象“类”](you-dont-know-js/oo/class-object.md)
     * [原型链](you-dont-know-js/prototype/README.md)
-    * [类型](you-dont-know-js/type/README.md)
-    * [强制类型转换](you-dont-know-js/coersion/README.md)
+    * [行为委托](you-dont-know-js/delegation/README.md)
+        * [例子](you-dont-know-js/delegation/example.md)
 
 # Deep Javascript Foundations -- Frontend Master
 
